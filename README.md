@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AhensuShrestha
-- 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on Internship
 - 📫 How to reach me ahensu.stha12@gmail.com
 
