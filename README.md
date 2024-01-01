@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AhensuShrestha
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on Internship
+- 💞️ I’m looking for Internship
 - 📫 How to reach me ahensu.stha12@gmail.com
 
 <!---
